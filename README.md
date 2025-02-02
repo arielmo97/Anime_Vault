@@ -2,8 +2,6 @@
 
 Anime Vault is a modern Next.js 14 web application that allows users to browse and explore anime collections with smooth animations and infinite scrolling.
 
-![Anime Vault Preview](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
-
 ## Features
 
 - 🚀 **Built with Next.js 14** – Uses App Router and Server Actions.
