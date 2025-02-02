@@ -53,14 +53,6 @@ Anime_Vault/
 │── tsconfig.json       # TypeScript configuration
 ```
 
-## Contributing
-
-Pull requests are welcome. Feel free to submit improvements and fixes.
-
-## License
-
-MIT License © 2025 Ariel Mo
-
 ---
 
 This project was initially inspired by a YouTube tutorial, but improvements and modifications have been made to make it unique.
